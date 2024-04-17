@@ -103,52 +103,22 @@ h2{
 .container {
     width: 100%;
     background-color: #ddd;
-}
+  }
    
-.skills {
+  .skills {
     text-align: right;
     padding-right: 20px;
     line-height: 40px;
     color: white;
-}
+  }
    
-.law1 {width: 40%; background-color: #001c55;}
-.law2 {width: 75%; background-color: #001c55;}
-.law3 {width: 70%; background-color: #001c55;}
-.law4 {width: 40%; background-color: #001c55;}
-.datamanagement1 {width: 50%; background-color: #0a2472;}
-.datamanagement2 {width: 40%; background-color: #0a2472;}
-.datamanagement3 {width: 80%; background-color: #0a2472;}
-.psychology {width: 80%; background-color: #0e6ba8;}
+  .law1 {width: 40%; background-color: #001c55;}
+  .law2 {width: 75%; background-color: #001c55;}
+  .law3 {width: 70%; background-color: #001c55;}
+  .law4 {width: 40%; background-color: #001c55;}
+  .datamanagement1 {width: 50%; background-color: #0a2472;}
+  .datamanagement2 {width: 40%; background-color: #0a2472;}
+  .datamanagement3 {width: 80%; background-color: #0a2472;}
+  .psychology {width: 80%; background-color: #0e6ba8;}
 
-.experience {
-    background-color: #A9C5A0;
-    padding: 20px;
-    border-radius: 20px;
-    width: 80%;
-    margin: 20px 20px;
-    margin-left: 150px;
-    font-size: 20px;
-    color: #2d3142;    
-}
 
-.exphoto1 {
-    float: left;
-    padding: 20px;
-    margin-left: 30px;
-}
-
-.txt2 {
-    float: right;
-    margin-top: -200px;
-}
-
-.txt3 {
-    float: right;
-    margin-top: -250px;
-}
-
-.txt4 {
-    float: right;
-    margin-top: -300px;
-}
